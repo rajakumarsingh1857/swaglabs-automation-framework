@@ -1,0 +1,11 @@
+Test Case ID,Test Case Description,Expected Result
+TC_001,Login with valid credentials,User should be redirected to the homepage.
+TC_002,Add item to cart,Cart should reflect the added item.
+TC_003,Remove item from cart,Cart should not show the removed item.
+TC_004,Checkout process,User should be able to complete checkout successfully.
+TC_005,Login with invalid credentials,Error message should be displayed.
+TC_006,Filter items by category,Only items in the selected category should be displayed.
+TC_007,Search for an item,Search results should reflect the searched item.
+TC_008,Update account information,User should be able to update and save information.
+TC_009,Logout process,User should be redirected to the login page.
+TC_010,Forgot password,User should receive a password reset email.
