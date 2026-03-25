@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.swaglabs.tests.LoginTest"/>
+        </classes>
+    </test>
+    <test name="Products Tests">
+        <classes>
+            <class name="com.swaglabs.tests.ProductsTest"/>
+        </classes>
+    </test>
+    <test name="Sorting Tests">
+        <classes>
+            <class name="com.swaglabs.tests.SortingTest"/>
+        </classes>
+    </test>
+</suite>
